@@ -1,5 +1,5 @@
  # 💫About Me :
-백엔드 주니어 개발자 강희수 입니다 :D
+예비 백엔드 개발자 강희수 입니다 :D
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
